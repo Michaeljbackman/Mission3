@@ -1,0 +1,14 @@
+/Users/michaelbackman/RiderProjects/Mission3/bin/Debug/net9.0/Mission3
+/Users/michaelbackman/RiderProjects/Mission3/bin/Debug/net9.0/Mission3.deps.json
+/Users/michaelbackman/RiderProjects/Mission3/bin/Debug/net9.0/Mission3.runtimeconfig.json
+/Users/michaelbackman/RiderProjects/Mission3/bin/Debug/net9.0/Mission3.dll
+/Users/michaelbackman/RiderProjects/Mission3/bin/Debug/net9.0/Mission3.pdb
+/Users/michaelbackman/RiderProjects/Mission3/obj/Debug/net9.0/Mission3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelbackman/RiderProjects/Mission3/obj/Debug/net9.0/Mission3.AssemblyInfoInputs.cache
+/Users/michaelbackman/RiderProjects/Mission3/obj/Debug/net9.0/Mission3.AssemblyInfo.cs
+/Users/michaelbackman/RiderProjects/Mission3/obj/Debug/net9.0/Mission3.csproj.CoreCompileInputs.cache
+/Users/michaelbackman/RiderProjects/Mission3/obj/Debug/net9.0/Mission3.dll
+/Users/michaelbackman/RiderProjects/Mission3/obj/Debug/net9.0/refint/Mission3.dll
+/Users/michaelbackman/RiderProjects/Mission3/obj/Debug/net9.0/Mission3.pdb
+/Users/michaelbackman/RiderProjects/Mission3/obj/Debug/net9.0/Mission3.genruntimeconfig.cache
+/Users/michaelbackman/RiderProjects/Mission3/obj/Debug/net9.0/ref/Mission3.dll
